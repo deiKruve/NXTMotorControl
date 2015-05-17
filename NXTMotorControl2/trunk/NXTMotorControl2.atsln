@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "NXTMotorControl2", "NXTMotorControl2\NXTMotorControl2.cproj", "{49C5479C-CB6B-44A5-87A5-DE38E9DA3B00}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C5479C-CB6B-44A5-87A5-DE38E9DA3B00}.Debug|AVR.ActiveCfg = Debug|AVR
+		{49C5479C-CB6B-44A5-87A5-DE38E9DA3B00}.Debug|AVR.Build.0 = Debug|AVR
+		{49C5479C-CB6B-44A5-87A5-DE38E9DA3B00}.Release|AVR.ActiveCfg = Release|AVR
+		{49C5479C-CB6B-44A5-87A5-DE38E9DA3B00}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

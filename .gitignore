@@ -1,0 +1,5 @@
+NXTMotorControl2/.svn
+NXTMotorControl2-java/.svn
+*.nxd
+*.nxj
+bin/
